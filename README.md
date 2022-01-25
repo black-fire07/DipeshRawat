@@ -41,7 +41,7 @@
 
 <table>
     <tr>
-        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshRawat&layout=compact)
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshRawat&theme=radical"  display=block height=190 align="center" alt="2">
     </tr>
 </table>    
 
