@@ -32,6 +32,7 @@
 <img src = "https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Angular-E23237?logo=AngularJS&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=fff"/></center>
+<img src = "https://img.shields.io/badge/-Web3js-903C3Z?logo=JavaScript&logoColor=fff" /></center>
 <img src = "https://img.shields.io/badge/-Truffle-6C3C3D?logo=Ethereum&logoColor=fff" /></center>
 <img src = "https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=fff"/></center>
 <img src = "https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=fff"/></center>
