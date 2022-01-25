@@ -41,7 +41,7 @@
 
 <table>
     <tr>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshRawat&theme=radical"  display=block height=190 align="center" alt="2">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-fire07&theme=radical"  display=block height=190 align="center" alt="2">
     </tr>
 </table>    
 
@@ -54,6 +54,6 @@
 
 <!--<table> 
   <tr>
-    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DipeshRawat&theme=monokai"  display=block width=100% height=auto alt="1"></p>
+    <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=black-fire07&theme=monokai"  display=block width=100% height=auto alt="1"></p>
    </tr>
 </table> -->
