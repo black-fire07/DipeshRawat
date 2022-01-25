@@ -41,7 +41,7 @@
 
 <table>
     <tr>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshRawat&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2">
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DipeshRawat&layout=compact)
     </tr>
 </table>    
 
