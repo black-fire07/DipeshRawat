@@ -14,8 +14,9 @@
 - ▶ Currently working as an intern. 
 - ▶ Completed Hacktoberfest.
 - ▶ Open to work. 
-- ▶ Major interests: Blockcahin & Frontend
-- ▶ Highlights : I love Anime | Manga forever 
+- ▶ Major interests: Blockcahin & Frontend.
+- ▶ Highlights : I love Anime | Manga forever. 
+- ▶ Telegram : <a href = "https://t.me/Daryun0" target = "_blank"> Click Here...👈 <a/>   
 
  
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -41,7 +42,8 @@
 
 <table>
     <tr>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-fire07&theme=radical"  display=block height=190 align="center" alt="2">
+        <td><img src="https://github-readme-stats.vercel.app/api?username=black-fire07&layout=compact&theme=radical&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+        <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=black-fire07&theme=radical&layout=compact&hide=HTML" display=block height=190 align="center" alt="2"></td>
     </tr>
 </table>    
 
