@@ -14,7 +14,7 @@
 - ▶ Currently working as an intern. 
 - ▶ Completed Hacktoberfest.
 - ▶ Open to work. 
-- ▶ Major interests: Blockcahin & Frontend.
+- ▶ Major interests: Blockchain & Frontend.
 - ▶ Highlights : I love Anime | Manga forever. 
 - ▶ Telegram : <a href = "https://t.me/Daryun0" target = "_blank"> Click Here...👈 <a/>   
 
