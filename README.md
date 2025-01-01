@@ -4,7 +4,7 @@
   
 <img src="https://user-images.githubusercontent.com/73031725/141452897-6fe26f52-bdd1-48be-9a22-67603245b961.gif">
 
-<h2 align="center">I'm a frontend developer and a blockchain developer. 😆</h2>
+<h2 align="center">I'm a Fullstack developer and a blockchain developer. 😆</h2>
  
   
 #### 💥Let's make this right as rain       
